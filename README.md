@@ -17,6 +17,6 @@
 <div> 
   <a href="https://https://www.linkedin.com/in/lucas-lopes-7a3a461a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Lucas-dev-dot/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Lucas-dev-dot/Lucas-dev-dot/blob/output/github-contribution-grid-snake.svg)
  
 </div>
