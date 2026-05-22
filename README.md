@@ -4,14 +4,6 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de aprender e crescer 
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/Lucas-dev-dot">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-dev-dot&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </a>
-</div>
-
 ### 🐍 Atividade de Commits
 
 <div align="center">
