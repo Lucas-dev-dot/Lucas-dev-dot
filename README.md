@@ -8,8 +8,7 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de aprender e crescer 
 
 <div align="center">
   <a href="https://github.com/Lucas-dev-dot">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-dev-dot&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-dev-dot&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-dev-dot&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
   </a>
 </div>
 
