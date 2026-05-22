@@ -12,6 +12,12 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de aprender e crescer 
   </a>
 </div>
 
+### 🐍 Atividade de Commits
+
+<div align="center">
+  <img src="https://github.com/Lucas-dev-dot/Lucas-dev-dot/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</div>
+
 ---
 
 ## 💻 Tecnologias que uso no meu dia
