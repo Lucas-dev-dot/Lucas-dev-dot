@@ -31,23 +31,13 @@ Desenvolvedor apaixonado por tecnologia e sempre em busca de aprender e crescer 
 
 ---
 
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns dos meus principais projetos:
-
-- **[Nome do Projeto 1](link)** - Descrição breve do projeto
-- **[Nome do Projeto 2](link)** - Descrição breve do projeto
-- **[Nome do Projeto 3](link)** - Descrição breve do projeto
-
----
-
 ## 📫 Como me encontrar
 
 <div>
-  <a href="https://www.linkedin.com/in/lucas-lopes-7a3a461a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-lopesnsm/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@email.com" target="_blank">
+  <a href="mailto:luquinhas.nsm21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/Lucas-dev-dot" target="_blank">
